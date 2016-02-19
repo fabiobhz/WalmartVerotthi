@@ -1,0 +1,7 @@
+require 'cucumber'
+require 'HTTParty'
+require 'nokogiri'
+require 'json'
+require 'capybara'
+require 'capybara/rspec'
+require 'rubygems'
